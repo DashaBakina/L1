@@ -1,0 +1,6 @@
+﻿  Assembling funcasm.asm...
+  4lb.cpp
+  Source.cpp
+E:\ЦУиМП(Земцов)\Лабы\4lb\Source.cpp(5,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  4lb.vcxproj -> E:\ЦУиМП(Земцов)\Лабы\4lb\Debug\4lb.exe
